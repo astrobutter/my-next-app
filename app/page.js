@@ -292,7 +292,7 @@ export default function Home() {
                 <div className="about-wrapper">
                     <div className="about-desc-part">
                         <div className="about-desc-wrapper"></div>
-                        <p>My name is Ayush Chauhan, currently in my final year of my B.Tech. course. And my portfolio is a representation of all that I've learned and accomplished as a science and engineering student.
+                        <p>My name is Ayush Chauhan, currently in my final year of my B.Tech. course. And my portfolio is a representation of all that I &apos; ve learned and accomplished as a science and engineering student.
                         </p>
                         <p>In my free  time i enjoy watching sitcoms, play video games & listen to music. My interests are photography,automobile & travel.
                         </p>
